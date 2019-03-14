@@ -12,4 +12,5 @@ Students food project
 
 
 Дорабатыйте, все можно редачить.
+https://www.figma.com/file/BSdCqYn1QDC6rYkEHynsXmxy/RUBLES-INC.?node-id=0%3A1 ccылка на дизайн
 
